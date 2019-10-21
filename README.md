@@ -13,10 +13,7 @@
 :heart:
 :yellow_heart:	
 :green_heart:	
-:cupid:
-:sparkling_heart:	
-:broken_heart:
-:heartbeat:
+
 
 
 &#9742;:**q:1971169846**
